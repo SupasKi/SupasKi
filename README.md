@@ -1,4 +1,4 @@
-[![MasterHead](https://i.hizliresim.com/m38bcn8.gif](https://i.hizliresim.com/isqvs0j.jpg))
+[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://i.hizliresim.com/isqvs0j.jpg))
 
 <h1 align="center">FOREVER SupasKi</h1>
 <h3 align="center">📌 YouTube: SupasKi</h3>
