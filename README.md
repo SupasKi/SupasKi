@@ -1,7 +1,6 @@
 ![MasterHead](https://i.hizliresim.com/isqvs0j.jpg)
 
 <h1 align="center">FOREVER SupasKi</h1>
-<h3 align="center">📌 YouTube: SupasKi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supaski&label=Profile%20views&color=0e75b6&style=flat" alt="supaski" /> </p>
 
