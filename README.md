@@ -24,4 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supaski&show_icons=true&locale=en&layout=compact" alt="supaski" /></p>
 
 
-![snake gif](https://github.com/SupasKi/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SupasKi/SupasKi/blob/output/github-contribution-grid-snake.gif)
