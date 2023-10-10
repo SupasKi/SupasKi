@@ -1,4 +1,4 @@
-https://i.hizliresim.com/isqvs0j.jpg
+![MasterHead](https://i.hizliresim.com/m38bcn8.gif)
 
 <h1 align="center">FOREVER SupasKi</h1>
 <h3 align="center">📌 YouTube: SupasKi</h3>
