@@ -1,14 +1,10 @@
-![MasterHead](https://i.hizliresim.com/isqvs0j.jpg)
+![MasterHead]([https://i.hizliresim.com/isqvs0j.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ic1js9iWoH4PAA_9GgyIKIGwh2EbHvQ9OyCR7ktcu4MzcPBgctu2Ow&s=10))
 
 <h1 align="center">FOREVER SupasKi</h1>
 
 - 🔭 Cheat Developer. **TapWare**
 
-- ⚡ Counter Strike 1.6 **Player**
-
 - 👨‍💻 Game Developer. **Unity**
-
-- 💣 DDoS Attack Project. **DDoS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
