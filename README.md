@@ -1,4 +1,4 @@
-![MasterHead]([https://i.hizliresim.com/isqvs0j.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ic1js9iWoH4PAA_9GgyIKIGwh2EbHvQ9OyCR7ktcu4MzcPBgctu2Ow&s=10))
+[img]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ic1js9iWoH4PAA_9GgyIKIGwh2EbHvQ9OyCR7ktcu4MzcPBgctu2Ow&s=10[/img]
 
 <h1 align="center">FOREVER SupasKi</h1>
 
