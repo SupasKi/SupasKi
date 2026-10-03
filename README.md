@@ -1,15 +1,13 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ic1js9iWoH4PAA_9GgyIKIGwh2EbHvQ9OyCR7ktcu4MzcPBgctu2Ow&s=10" alt="unity" width="1200" height="500"/>
 
-<h1 align="center">FOREVER SupasKi</h1>
+<h1 align="center">supasKi</h1>
 
-- 🔭 Cheat Developer. **TapWare**
-
-- 👨‍💻 Game Developer. **Unity**
+- 🔭 Cheat & Game Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@supaskix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supaski" height="30" width="40" /></a>
-<a href="https://discord.gg/kETuYkWUDB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kETuYkWUDB" height="30" width="40" /></a>
+<a href="linktr.ee/supask" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kETuYkWUDB" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
